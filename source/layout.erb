@@ -13,6 +13,7 @@
 
     <div id="main" role="main">
        <%= partial "partials/nav" %>
+       <h2><%=current_article.title if current_article%></h2>
       <%= yield %>
       <%= partial "partials/footer" %>
     </div>

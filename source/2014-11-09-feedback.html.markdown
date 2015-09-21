@@ -1,0 +1,15 @@
+---
+title: Feedback - The Path to Improvement
+date: 2014-11-09 21:54 UTC
+tags: DBC
+---
+
+Learning = soliciting + receiving + integrating feedback !
+
+In my past experience at school and at work, I've done a lot of work in teams and have really enjoyed it. I've learned that although doing things in teams may take longer, the result is almost always better. I was happy to see that working in teams, primarily in pairs, is a key aspect of the the Dev Bootcamp program.
+
+Over the past 5 weeks, I have worked on various coding challenges with other members of my cohort. Since we are still in Phase 0, the prep phase where we work remotely, the group work or "pairing" has been online using Google hangouts and collaboration platform Stypi. Pairing on challenges was tricky at first, we were all meeting for the first time and had to figure out how to tackle a problem in a given amount of time. Its been really fun to learn from each other and witness different working styles. It does get a bit troublesome though when we start to test code and have to switch back and forth between screens and programs.
+
+Following the pairing sessions, feedback is provided by each pair. We are encouraged to follow the ASK method for good feedback: actionable, specific and kind. The person receiving the feedback should be able to pinpoint something specific, work on it, and not feel attacked. I sometimes find it hard to provide actionable feedback when pairing sessions go very smoothly, but it is getting better with practice. I was a bit nervous going into read the feedback that has been submitted for me over the past weeks, but felt much better after reading them.
+
+The feedback I've received is helpful to my learning in that it is a good gage on how I'm performing. I hope I can improve in the sticking to the roles while pairing, whether as driver or navigator. Also, I received feedback to take a breath and slowing down when errors pop up before proposing fixes to make sure they are applicable. Integrating this feedback into my pairing sessions (and to my individual work) will be key to improving my work and performance going forward.

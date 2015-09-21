@@ -10,6 +10,9 @@ gem "middleman-livereload"
 gem 'bitters'
 gem 'bourbon'
 gem 'neat'
+gem 'nokogiri'
+gem 'redcarpet' #markdown engine
+gem 'middleman-syntax' #syntax highlighting
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"

@@ -1,3 +1,10 @@
+$a-tags: 'a, a:active, a:hover, a:visited';
+$a-tags-hover: 'a:active, a:hover';
+
+body{
+  background-image: url('/images/geometry2.png');
+}
+
 #main {
     @include outer-container;
 }
@@ -27,3 +34,12 @@ ol {
 .small-column {
   @include span-columns(4 of 12);
 }
+
+.more-link {
+  text-align: right;
+}
+
+#{$a-tags} {
+      color: #07A79D;
+      text-decoration: none;
+      }

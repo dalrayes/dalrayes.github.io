@@ -1,0 +1,34 @@
+---
+title: Issues in Tech - Bitcoin
+date: 2014-11-30 21:54 UTC
+tags: Tech, Bitcoin
+---
+
+![Bitcoin](/images/bitcoin.png)
+
+##What is it?
+
+Bitcoin is the world’s first crypto-currency, or digital currency. In its simplest form, bitcoin is an open source payment system, where payments are kept track of in a public ledger or spreadsheet, referred to as the _block chain_. Unlike fiat money, bitcoin is not backed by gold or currency, and is not regulated by a central bank or government. Bitcoin was introduced in 2009 by Satoshi Nakamato, a person or group of people that remain [unknown](http://en.wikipedia.org/wiki/Satoshi_Nakamoto).
+
+The price of bitcoin has fluctuated since its launch, with the current price of one bitcoin valued at $377.81. Get the current price here
+
+##How does it work?
+
+To create bitcoins, computers must solve complex mathematical problems, an activity referred to as mining. Users offer their computing power to verify/record payments in the ledger (the block chain) and are rewarded with bitcoins. This sounds easy, but the network automatically adjusts the difficulty of the math problems. The increasing popularity of bitcoin and the use of powerful, mining specific devices (ASICs) has made it difficult and very cost ineffective for individuals to mine. According to the Bitcoin protocol, only 21 million bitcoins can ever be created by miners, with the amount mined to date at 13.5 million. Nevertheless, there are other ways you can get bitcoins, such as buying them directly from other people, or in exchange for goods and services. Bitcoins can be sent and received electronically using exchanges, or wallet softwares, for a small fee.
+
+##Why is bitcoin so awesome?
+
+Although the use of the currency is still tiny compared to the billion dollar credit card and banking industry, bitcoin is a disruptive technology, and is already changing the way we move money or value. Think of the way the internet disrupted the way we move information or communicate. Bitcoin at its core is a transparent monetary system, based on problem solving rather than on biased politicians and central bankers using monetary policy to increase or decrease the money supply. There are many potential applications for bitcoin and possibilities of how it will impact our lives. To start, today it creates an easy, quick, cheap way to make local and international transfers. It could also replace expensive escrow accounts, with movement of money controlled by conditions that are programmed (think: if (conditions met), then (make transfer), else (don’t transfer)).
+
+##Issues with Bitcoin
+
+Despite its positive contributions, bitcoin has its negative aspects. Its anonymous nature makes it appealing for use in illegal activities. Bitcoin has been used for money laundering and for buying illegal substances and weapons on the anonymous web, TOR and the DarkWeb. Other issues are that currency exchanges have been targeted by hackers, and currency holders could risk losing their bitcoins, since they are not backed or insured (i.e the Mt. Gox [incident](http://online.wsj.com/articles/SB10001424052702303801304579410010379087576) in early 2014).
+
+##Recent Developments
+
+<li>An increasing number of retailers are accepting bitcoin, with San Francisco retailers leading the way</li>
+<li>Undergrad students at the Massachusetts Institute of Technology (MIT) received $100 in bitcoins in Fall 2014 to "better understand the emerging technology"</li>
+<li>PayPal is working to enable certain PayPal merchants to accept bitcoin as a form of payment from their customers.</li>
+<li>There are now bitcoin ATMs ("BTMs") nationwide. Find them here.</li>
+<li>Conan explains [bitcoin](https://www.youtube.com/watch?v=Vd19SboRhVY)! #kidding</li>
+

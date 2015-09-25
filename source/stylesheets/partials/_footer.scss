@@ -3,4 +3,15 @@ footer {
   margin: 2em 0;
   padding-top: 2em;
   font-size: 0.8em;
+
+  .tag-list{
+      @include span-columns(4 of 12);
+       -moz-column-count: 2;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 20px;
+    column-count: 2;
+    column-gap: 20px;
+
+  }
 }

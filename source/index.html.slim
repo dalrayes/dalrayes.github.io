@@ -1,0 +1,9 @@
+
+p Hi! I'm setting this up. Brb!
+
+ul
+- page_articles.each_with_index do |article, i|
+  hr
+  h2.title = link_to article.title, article
+  p.summary = article.summary
+  p.more-link = link_to 'more…', article

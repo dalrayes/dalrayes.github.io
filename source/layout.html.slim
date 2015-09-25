@@ -1,0 +1,17 @@
+doctype html
+html
+  head
+    meta charset="utf-8"
+    meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1'
+    title = 'Detours | ' + current_article.title unless current_article.nil?
+    = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
+    = stylesheet_link_tag "all"
+  body
+    #main
+      == partial 'partials/nav'
+      h2 =current_article.title if current_article
+
+      == yield
+      =if current_article
+           h6 = 'Tags: ' + current_article.tags.join(', ')
+      == partial 'partials/footer'

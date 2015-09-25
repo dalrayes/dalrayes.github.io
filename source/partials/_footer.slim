@@ -1,0 +1,17 @@
+footer
+  ul.large-column
+    li
+      h5.heading Recent Articles
+      -blog.articles[0..3].each do |article|
+        li =link_to article.title, article
+
+  ul.tag-list
+      h5.heading Tags
+      -blog.tags.each do |tag,articles|
+        .tags = link_to tag, tag_path(tag)
+
+
+
+
+
+

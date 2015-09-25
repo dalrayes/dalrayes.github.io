@@ -7,6 +7,7 @@ gem "middleman-blog", "~> 3.5.3"
 gem "middleman-deploy"
 gem "middleman-livereload"
 
+gem 'slim'
 gem 'bitters'
 gem 'bourbon'
 gem 'neat'

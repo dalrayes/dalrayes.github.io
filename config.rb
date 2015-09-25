@@ -43,6 +43,7 @@ activate :directory_indexes
 
 page "/feed.xml", layout: false
 
+require 'slim'
 ###
 # Compass
 ###

@@ -1,7 +1,7 @@
 ---
 title: Reading code
 date: 2015-09-21 18:36 UTC
-published: false
+published: true
 tags: Rails, Windy City Rails
 ---
 
